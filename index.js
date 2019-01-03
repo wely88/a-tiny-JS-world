@@ -14,9 +14,8 @@ const dog = {
   gender: 'male',
   legs: 4,
   hands: 0,
-  saying: 'arrrrr-aaaargh!',
-  //friends: 0
-};
+  saying: 'arrrrr-aaaargh!'
+}
 
 const cat = {
   species: 'cat',
